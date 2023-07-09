@@ -1,0 +1,40 @@
+<html>
+<head>
+<title>Andhra Pradesh</title>
+</head>
+<body bgcolor = "grey">
+<H1 align = "center">Andhra Pradesh</H1>
+<H2>Introduction</H2>
+<p align = "justify"><font face = "Calibri" size = "+3">
+Andhra Pradesh, locared on the southeastern, is a popular destination in Southern India. Andhra Pradesh tourism is known as Kohinoor of India. Many tourists from India and outside India visit this place around 
+the year to visit the beaches, temples, and hill stations in this state.
+<img src = "charminar.jpg" height = 240 width = 280 align = "right">
+Andhra Pradesh tourism is mainly concentrate on the beach tours and religious tours</p></font>.
+<H2 align = "Left">Andhra Pradesh Tourist Places :</H2>
+<OL>
+<LI><p align = "left"><a href = "#Hyderabad">Hyderabad</a><br>
+<LI><p align = "left"><a href = "#Vijaywada">Vijaywada</a><br>
+<LI><p align = "left"><a href = "#Warangal">Warangal</a><br>
+<LI><p align = "left"><a href = "#Srisailam">Srisailam</a><br>
+<LI><p align = "left"><a href = "#Vishakhapatnam">Vishakhapatnam</a><br>
+<LI><p align = "left"><a  href = "#Tirupati">Tirupati</a><br>
+</OL>
+<H2><p align = "left"><font face = "Calibri"><A Name = "Hyderabad"><b>Hyderabad :</b></H2></A></p>
+<p align = "justify"><font size = "+2" font face = "Calibri">Hyderabad is the capital of Andhra Pradesh. One of the metropolitan cities, Hyderabad has a number of sightseeing sites for the tourists. Various mosques, markets,
+brides, lakes, hills etc are house in this city. Salar Jung Museum & Charminar are the most popular destinations in the city.</p></font>
+<H2><p align = "left"><font face = "Calibri"><A Name = "Vijaywada"><b>Vijaywada : </b></A></H2></font>
+<p align = "justify"><font size ="+3" font face = "Calibri">Located on the delta of Krishna River, Vijaywada is a famous destination in Andhra Pradesh. The city is known for its railway station. Krishna River along with its surrounding valleys offer beautiful
+sightseeing sites. Surrounded by hills, this city offer some amazing natural sites.</p></font>
+<H2><p align = "left"><font face = "Calibri"><A Name = "Warangal"><b>Warangal :</b></A></H2></font>
+<p align = "justify"><font size = "+3" font face = "Calibri">Located on the northern part of the state, Warangal is a place of historical importance You can visit the Ancient Temples, Antiques, & Relics of 12<sup>th</sup> century AD. The Pristine lakes &amazing
+range of wildlife are the main focuses for the natural lovers in this city.</p></font>
+<H2><p align = "left"><font face = "Calibri"><A Name = "Srisailam"><b>Srisailam :</b></A></H2></font>
+<p align = "justify"><font size = "+3" font face = "Calibri">Located on the banks of Krishna River, this samll city is a popular destination for weekend trips. The major attractions of this city are the Nallamalau Hills, Dams, & some Ancient Temples. If you want
+to visit wildlife in this city, you can visit the Hill Forests.</font></p>
+<H2><p align = "left"><font face = "Calibri"><A Name = "Vishakhapatnam"><b>Vishakhapatnam :</b></A></H2></font>
+<p align = "justify"><font size = "+3" font face = "Calibri">Popularity known as Vizag, Vishakhapatnam is a developed industrial area and popular tourist destination. The main attractions of this city are the beaches, beautiful beaches, and enchanting valleys.</p></font>
+<H2><p align = "left"><font face = "Calibri"><A Name = "Tirupati"><b>Tirupati :</b></A></H2></font>
+<p align = "justify"><font size = "+3" font face = "Calibri">Located in Chittoor, Tirupati is located on the southeastern part of the state. It is one of the most popular pilgrimage centers for the Hindus.</p></font>
+</body>
+</html>
+      

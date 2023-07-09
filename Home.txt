@@ -1,0 +1,48 @@
+<html>
+<head>
+<title>Travel & Tourism</title>
+</head>
+<body bgcolor = aqua>
+<body link = "#0000FF" vlink = "#800080">
+<img SRC = "india.jpg" height = 220 width = 270 align = right>
+<p><b><font face = "Calibri"><font color = "#0000FF"><font size = +5><center>Travel & Tourism</font></font></font></b></center>
+<p><b><font face = "Calibri"><font color = "#0000FF"><font size = +3>An Indroduction to Indian Tourism</font></font></font></b>
+<br>
+<font face = "Calibri" size = 5 align = "justify">India is a delightful tourist destination. Its diversity is its uniqueness. There is sheer wealth of attractions to explore and experience in this well connected country.
+It is a land of history, culture, festivities mediation, adventurous, wildlife, beaches and more. If you want to see places of worship, there are scared sites such as the Jain Temples, Sikh Gurudwaras, and Buddhist
+Stupas speckled in different parts of travel of India.
+India Tourism - It is a land of history, culture, festivities mediation, adventurous, wildlife, beaches and more. If you want to see places of worship, there are scared sites such as the Jain Temples, Sikh Gurudwaras, and Buddhist
+Stupas speckled in different parts of travel of India.
+If it is the history that interests you there are several forts, monuments, and ruins to visit too. The areas of Himachal Pradesh, Garhwal, Darjeeling, and Sikkim are heaven for those who thrive on high adrenalin rush
+while the beaches of Goa, Kerala and Tamil Nadu are ideal settings to splash and unwind of India Tourism. Tourists across the globe throng to Jaipur, Jodhpur, Udaipur & Jaisalmer for the palaces and several ornate 
+Jain Temples.
+Mumbai, Delhi, Kolkata, & Chennai are India`s main gateways for International Flights. Within India you can use roadways, & railways to travel to the different parts.
+</font>
+<Left><p><b><font face = "Calibri"><font color = "#800080"><font size = +3><center>States & Union Territories of India&nbsp; </a></center>
+</font></font></font></b></left>
+<table border = 2 width = "80%" align = "center">
+<tr>
+<td width = "100%">
+<tr>
+<td width = "34%"><font face = "Calibri"><font size = +2><a href = "Andhra.html">Andhra Pradesh&nbsp;</font></font></font></td>
+<td><font face = "Calibri"><font size = +2>Arunachal Pradesh&nbsp; </a></font></font></td>
+<td><font face = "Calibri"><font size = +2>Bihar&nbsp; </font></font></td>
+</tr>
+<tr>
+<td><font face = "Calibri"><font size = +2><a href = "Delhi.html">Delhi&nbsp;</a></font></font></td>
+<td><font face = "Calibri"><font size = +2>Goa&nbsp; </font></font></td>
+<td><font face = "Calibri"><font size = +2>Gujarat&nbsp; </font></font></td>
+</tr>
+<tr>
+<td><font face = "Calibri"><font size = +2><a href = Kerala.html">Kerala&nbsp; </a></font></font></td>
+<td><font face = "Calibri"><font size = +2>Lakshadweep&nbsp; </font></font></td>
+<td><font face = "Calibri"><font size = +2>Maharashtra&nbsp; </font></font></td>
+</tr>
+<tr>
+<td><font face = "Calibri"><font size = +2><a href = "Punjab.html">Punjab&nbsp; </a></font></font></td>
+<td><font face = "Calibri"><font size = +2>Pondicherry&nbsp; </font></font></td>
+<td><font face = "Calibri"><font size = +2>Orissa&nbsp; </font></font></td>
+</tr>
+</table>
+</body>
+</html> 

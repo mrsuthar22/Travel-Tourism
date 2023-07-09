@@ -1,0 +1,57 @@
+<html>
+<head>
+<title>Punjab Tourism</title>
+</head>
+<body>
+<body bgcolor = maroon>
+<p align = "center"><font face = "Calibri" font size = "+3">Punjab Tourist Places</p></font>
+<H2>Introduction</H2>
+<p align = "justify"><font face = "Calibri" font size = "+2">Punjab, located in the north west of India, is one of the smallest and the most properous states of India. The five rivers, Sutlej, Beas, Ravi, Chenab & Jhelum
+gave its name 'Punjab' or the land of five waters.</p></font>
+<img src = "punjab.jpg" align = "right">
+<p align = "justify"><font face = "Calibri" font size = "+2">These five rivers divide the state into three refions : Majha, Doaba & Malwa. Punjab is primarily an agricultural state and enjoys the natural benefits of fertile
+soils and abundant wates. As a civilization, it is one of the most ancient in the world with a distinguished culture.</p></font>
+<p align = "left"><font face = "Calibri" font size = "+2">Punjab Tourist Places :</p></font>
+<A Name = "Back"></A>
+<A href = "#Top">Bottom</A>
+<OL>
+<LI><p align = "left"><font face = "Calibri" font size = "+2.5"><A href = "#Golden Temple">Golden Temple</LI></p></font></A><br>
+<LI><p align = "left"><font face = "Calibri" font size = "+2.5"><A href = "#Harmandir Sahib">Harmandir Sahib</LI></p></font></A><br>
+<LI><p align = "left"><font face = "Calibri" font size = "+2.5"><A href = "#Rambagh Gardens">Rambagh Gardens</LI></p></font></A><br>
+<LI><p align = "left"><font face = "Calibri" font size = "+2.5"><A href = "#Durgiana Temple">Durgiana Temple</LI></p></font></A><br>
+<LI><p align = "left"><font face = "Calibri" font size = "+2.5"><A href = "#Jallaianwala Bagh">Jallaianwala Bagh</LI></p></font></A><br>
+<LI><p align = "left"><font face = "Calibri" font size = "+2.5"><A href = "#Central Museum">Central Museum</LI></p></font></A><br>
+<LI><p align = "left"><font face = "Calibri" font size = "+2.5"><A href = "#Lohgarh Fort">Lohgarh Fort</LI></p></font></A><br>
+<LI><p align = "left"><font face = "Calibri" font size = "+2.5"><A href = "#Fatehgarh Fort">Fatehgarh Fort</LI></p></font></A><br>
+</OL>
+<H2><p align = "left"><font face = "Calibri"><A Name = "Golden Temple">Golden Temple :</H2></p></font></A>
+<p align = "left"><font face = "Calibri" font size = "+2"> Harmandir Sahib, also know as the Golden Temple in Amritsar City is the holiest shrine of the Sikh religion. Also known as the Shri Darbar Sahib, it is  in the center
+of the old part of Amritsar. The Golden Temple sites on a rectangular platform, surrounded by a pool of water called Amrit Sarovar from which the City is named. The entrance to the Golden Temple is complex through
+an ornate archway with intricate inlay work. The Golden Temple is a two story marbled structure and the interior of the temple is decorated with semi precious stones, frescoes and glass work.</p></font>
+<H2><p align = "left"><font = "Calibri"><A Name = "Harmandir Sahib">Harmandir Sahib :</H2></p></font></A>
+<p align = "left"><font face = "Calibri" font size = "+2">Harmandir Sahib, situated inside the Golden Temple complex is a 52mtr, square - based and enshrines the Holy Book of the Sikhs, the Guru Granth Sahib. The Guru
+Granth Sahib is placed on a palanquin set with emeralds, rubbies and diamonds with silver poles and a golden canopy. The fifth Guru, Guru Arjun Dev (1563-1606) beagn the construction of Harmandir Sahib, and construction
+of the temple was completed in the late 16<sup>th</sup> Century.</p></font>
+<H2><p align = "left"><font face = "Calibri"><A Name = "Rambagh Gardens">Rambagh Gardens :</H2></p></font></A>
+<p align = "left"><font face = "Calibri" font size = "+2">The summer palace of Maharaja Ranjit Singh is situated in the middle of a beautiful garden. Intersected by water channels fitted with fountains and golden fish, rare
+coniferous trees and herbal plants, this garden is laid out inline with Shalimar Garden at Lahore. This is the best Garden in Punjab. The Palace houses a museum and the exhibits include weapons dating back to Mughal
+times and certain portraits of the ruling houses of Punjab.</p></font>
+<H2><p align = "left"><font face = "Calibri"><A Name = "Durgiana Temple">Durgiana Temple :</H2></p></font></A>
+<p align = "left"><font face = "Calibri" font size = "+2">Durgiana Temple is situated outside the Lohgarh Fort Gate, the temple is built in the 1920`s. Not built in the traditional Hindu Style, the architecture resembles that of
+the Golden Temple and, in a similar manner rises from the midest of a tank and has canopies and the central dome in the style of Sikh temple. It is a well known repository of Hindu scriptures.</p></font>
+<H2><p align = "left"><font face = "Calibri"><A Name = "Jallaianwala Bagh">Jallaianwala Bagh :</H2></p></font></A>
+<p align = "left"><font face = "Calibri" font size = "+2">Jallaianwala Bagh, is situated 400 meters north of the Golden Temple, is where the most notorious massacre under the British rule took place. In the afternoon of
+13<sup>th</sup> April, 1919 thousands of people gathered at Jallaianwala Bagh for a peaceful demonstration on the Baisakhi Day. The ground is surrounded by high walls on all sides and has only a narrow alley for
+access. General Dyer personally led his troops to the site. Standing on the only access way, he ordered his men to open fire withoutbany warning resulting in the death of 337 Men, 41 Boys & 1 Baby and injuring more
+than 1200. A section of the wall with visible bullet marks is preserved, as is the well that some people jumped into to escape the bullets. 120 bodies were recovered from the well. Today this ground hass been changed
+to a memorial park. At the entrance there is a memorial plaque which recounts the history.</p></font>
+<H2><p align = "left"><font face = "Calibri"><A Name = "Central Museum">Central Museum :</H2></p></font></A>
+<p align = "left"><font face = "Calibri" font size = "+2">The sikh Central Museum is upstairs in the Clock Tower. The Gallery in the museum exhibits paintings depicting the lives of Sikhs and their Martyrs.</p></font>
+<H2><p align = "left"><font face = "Calibri"><A Name = "Lohgarh Fort">Lohgarh Fort :</H2></p></font></A>
+<p align = "left"><font face = "Calibri" font size = "+2">At this bird sanctuary near Kottayam you can walk or take a boat ride to spot comorants, herons, egrets and storks.</p></font>
+ <H2><p align = "left"><font face = "Calibri"><A Name = "Fatehgarh Fort">Fatehgarh Fort :</H2></p></font></A>
+<p align = "left"><font face = "Calibri" font size = "+2">A religiopus and cultural centre featuring one of the largest temples in Kerala.</p></font>
+<A href = "#Back">Top</A>
+<A Name = "Top"></A>
+</body>
+</html>
